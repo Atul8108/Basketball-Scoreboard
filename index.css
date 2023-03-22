@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color: #1B244A;
+    width: 400px;
+    height: 250px;
+    /* margin-left: auto;
+    margin-right: auto; */
+    margin: auto;
+    align-items: center;
+}
+
+.scores{
+     background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 100px;
+    margin: 20px;
+    border: 2px dotted red;  
+    text-align: center;
+}
+
+/* h2{
+    padding-left: 10px;
+} */
+
+.btn{
+    margin-left: 20px;
+}
+
+h3{
+    margin-left: 40px;
+    color: white
+}
